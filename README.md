@@ -1,18 +1,28 @@
-# qrcode
+# Health & Fitness App
 
-A new Flutter QR Scanner Project for Data Entry using GetX state management architecture.
+A Flutter app for tracking your health and fitness goals using getX state management architecture.
 
-## Packages Used
+## Features
 
-For QR Scanner Package explore
+- Track your daily water intake
+- Record your daily food intake
+- Log your daily exercise routines
+- View your progress over time with charts and graphs
+- Set and track your weight loss goals
+- Use a BMI calculator to determine your ideal weight range
+- Get reminders to take your vitamins and supplements
 
--[https://pub.dev/packages/qr_code_scanner](https://pub.dev/packages/qr_code_scanner)
+## Dependencies
 
-For GetX -[https://pub.dev/packages/get](https://pub.dev/packages/get)
+This project uses the following packages:
 
-For SharedPreferences
-
--[https://pub.dev/packages/shared_preferences](https://pub.dev/packages/shared_preferences)
+- [getX] (https://pub.dev/packages/get)
+- [flutter_svg] (https://pub.dev/packages/flutter_svg)
+- [percent_indicator] (https://pub.dev/packages/percent_indicator)
+- [flutter_form_builder] (https://pub.dev/packages/flutter_form_builder)
+- [intl] (https://pub.dev/packages/intl)
+- [syncfusion_flutter_charts] (https://pub.dev/packages/syncfusion_flutter_charts)
+- [fl_chart] (https://pub.dev/packages/fl_chart)
 
 <!-- ![QR Scanner_SignIn](https://user-images.githubusercontent.com/18269506/152419142-b791e8d5-09cf-4def-a184-c7a83ed6d10f.png) -->
 
@@ -24,13 +34,16 @@ For SharedPreferences
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1- Clone the repository to your local machine.
+2- Run flutter pub get to install the dependencies.
+3- Start the app by running flutter run or using your preferred IDE.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Design
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The design of this app was inspired by the Fitness App UI Kit by Pixeltrue. You can view the UI kit at the following URL: [Fitness-App-UI-kit] (https://www.pixeltrue.com/free-ui-kits/fitness-app-ui-kit)
+
+## License
+
+This project is licensed under the GPL-3.0 license. See the LICENSE file for more information.
