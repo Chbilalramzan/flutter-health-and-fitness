@@ -16,13 +16,13 @@ A Flutter app for tracking your health and fitness goals using getX state manage
 
 This project uses the following packages:
 
-- [getX] (https://pub.dev/packages/get)
-- [flutter_svg] (https://pub.dev/packages/flutter_svg)
-- [percent_indicator] (https://pub.dev/packages/percent_indicator)
-- [flutter_form_builder] (https://pub.dev/packages/flutter_form_builder)
-- [intl] (https://pub.dev/packages/intl)
-- [syncfusion_flutter_charts] (https://pub.dev/packages/syncfusion_flutter_charts)
-- [fl_chart] (https://pub.dev/packages/fl_chart)
+- [getX](https://pub.dev/packages/get)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [percent_indicator](https://pub.dev/packages/percent_indicator)
+- [flutter_form_builder](https://pub.dev/packages/flutter_form_builder)
+- [intl](https://pub.dev/packages/intl)
+- [syncfusion_flutter_charts](https://pub.dev/packages/syncfusion_flutter_charts)
+- [fl_chart](https://pub.dev/packages/fl_chart)
 
 <!-- ![QR Scanner_SignIn](https://user-images.githubusercontent.com/18269506/152419142-b791e8d5-09cf-4def-a184-c7a83ed6d10f.png) -->
 
@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
 
 ## Design
 
-The design of this app was inspired by the Fitness App UI Kit by Pixeltrue. You can view the UI kit at the following URL: [Fitness-App-UI-kit] (https://www.pixeltrue.com/free-ui-kits/fitness-app-ui-kit)
+The design of this app was inspired by the Fitness App UI Kit by Pixeltrue. You can view the UI kit at the following URL: [Fitness-App-UI-kit](https://www.pixeltrue.com/free-ui-kits/fitness-app-ui-kit)
 
 ## License
 
