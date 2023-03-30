@@ -36,9 +36,9 @@ This project uses the following packages:
 
 To get started with this project, follow these steps:
 
-1- Clone the repository to your local machine.
-2- Run `flutter pub get` to install the dependencies.
-3- Start the app by running `flutter run` or using your preferred IDE.
+1. Clone the repository to your local machine.
+2. Run `flutter pub get` to install the dependencies.
+3. Start the app by running `flutter run` or using your preferred IDE.
 
 ## Design
 
